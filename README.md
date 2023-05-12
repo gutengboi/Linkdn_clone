@@ -1,3 +1,7 @@
+![linkdn](https://github.com/gutengboi/Linkdn_clone/assets/34478644/4a04913b-3a57-47c9-b2b5-8fd15ebc2430)
+![lindn2](https://github.com/gutengboi/Linkdn_clone/assets/34478644/1adbe8e8-3633-4f2b-8c59-7151d2db6b4d)
+
+
 # linkdn_clon
 
 A new Flutter project.
